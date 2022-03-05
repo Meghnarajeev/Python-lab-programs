@@ -1,4 +1,4 @@
-square = lambda s : s*s
+square = lambda s  : s*s
 rectangle = lambda l,b : l*b
 triangle = lambda b,h : (b*h)/2
 print('Area of square',square(10))
